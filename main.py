@@ -1,2 +1,2 @@
-def main():
-    print("Olá python seu porra")
+nome=input("Qual é o seu nome?")
+print(f"Olá {nome}")
